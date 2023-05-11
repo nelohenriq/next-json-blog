@@ -10,6 +10,7 @@ import {
   MDBIcon,
 } from "mdb-react-ui-kit";
 import { Link } from "react-router-dom";
+import Badge from "./Badge";
 
 const Blogs = ({
   title,
@@ -31,21 +32,29 @@ const Blogs = ({
         />
         <MDBCardBody>
           <MDBCardTitle>{title}</MDBCardTitle>
-          <MDBCardText>{excerpt(description)}</MDBCardText>
-          <Link to={`/blog/${id}`}></Link>
-          <p>{category}</p>
+          <MDBCardText>
+            {excerpt(description)}
+            {description.length > 50 && (
+              <Link
+                style={{
+                  fontSize: "12px",
+                  fontStyle: "italic",
+                }}
+                to={`/blog/${id}`}
+              >
+                Read More
+              </Link>
+            )}
+          </MDBCardText>
+          <Badge>{category}</Badge>
           <span>
-            <MDBBtn
-              className="mt-1"
-              tag="a"
-              color="none"
-              onClick={() => handleDelete(id)}
-            >
+            <MDBBtn className="mt-1" tag="a" color="none">
               <MDBIcon
                 fas
                 icon="trash"
                 style={{ color: "#dd4b39" }}
                 size="lg"
+                onClick={() => handleDelete(id)}
               />
             </MDBBtn>
             <Link to={`/editBlog/${id}`}>
