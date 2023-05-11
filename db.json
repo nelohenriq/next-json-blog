@@ -1,0 +1,12 @@
+{
+  "blogs": [
+    {
+      "title": "Food blog",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia culpa deleniti consequatur quia obcaecati voluptatibus, temporibus impedit pariatur! Nostrum, eum.",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/dt4ripswl/image/upload/v1683829288/jfff6aqbaylh05ptjczm.jpg",
+      "date": "11/05/2023",
+      "id": 1
+    }
+  ]
+}
