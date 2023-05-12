@@ -23,6 +23,38 @@
       "imageUrl": "http://res.cloudinary.com/dt4ripswl/image/upload/v1683916374/eai9g49w5vklc3smqopn.jpg",
       "date": "12/05/2023",
       "id": 3
+    },
+    {
+      "title": "Travel Blog",
+      "description": "Since I reached my hotel in the evening after a long day of driving, I did not do much except have dinner of a delicious salad, a glass of wine, and walk out to the nearby city parks to take some evening photos. Then I took a nice long hot shower and went to bed in my cool room. I was a little disappointed in the room because I specifically booked one that had photos of a hanging chair - something for me to relax and read in. There was no such chair. Oh well. Otherwise, Hotel Norge by Scandic was fantastic. It was right in the middle of town, the room was nice and spacious, the restaurant was nice, and the breakfast buffet was incredible.",
+      "category": "Travel",
+      "imageUrl": "http://res.cloudinary.com/dt4ripswl/image/upload/v1683924162/tqdrxsf2seodbr1vspsm.avif",
+      "date": "12/05/2023",
+      "id": 4
+    },
+    {
+      "title": "Fashion Blog",
+      "description": "Take for example this A-line, short-sleeved shirt dress by COS. Not only is it 100% cotton for maximum comfort and breathing room, but the exaggerated A-line makes it a total standout. The back box pleat adds eye-grabbing volume to this silhouette and allows this dress to play both dressy or casual, depending on what you need it for. It’s the kind of LBD you can pair with sneakers (like adidas Sambas) for a casual Sunday brunch or wear with strappy sandals for a backyard cocktail party! For under $140, the versatility and wearability of this dress will take you far this summer season. I may or may not have also bought in white - its just too good to pass up for summer! The fit is already oversized, but I took a US6 since I'm 5'10 and wanted to make sure I had enough length coverage. ",
+      "category": "Fashion",
+      "imageUrl": "http://res.cloudinary.com/dt4ripswl/image/upload/v1683924627/kuxr37cxwgspsl5jri9t.avif",
+      "date": "12/05/2023",
+      "id": 5
+    },
+    {
+      "title": "Fitness Blog",
+      "description": "I became certified as a group fitness instructor in 1990... I then became interested in endurance training and have been ever since. I continued teaching fitness classes beyond my college years and while I raised my children.  As a graduate student in kinesiology in 1994, I became certified as a personal trainer.  During this time, I noticed the impact of the menstrual cycle on some of my female clients. There was not a lot of research on exercise and the impact of hormones and PMS back in the 1990’s.",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/dt4ripswl/image/upload/v1683924709/s9f7fskieaqs16x563zq.avif",
+      "date": "12/05/2023",
+      "id": 6
+    },
+    {
+      "title": "Sports Blog",
+      "description": "Lionel Messi never wanted to leave FC Barcelona and his experiment with Paris Saint-Germain has been a resounding failure. The player's relationship with the club hit a breaking point when they were, once again, eliminated in the Champions League round of 16 and have nothing left to play for other than the league title. Earlier this week, Messi took an unsanctioned trip to Saudi Arabia, breaking team protocol and receiving a two-week, unpaid suspension. It is the first time a player has been suspended by the PSG board since the ownership group took over in 2013. Messi has been in contact with Saudi club Al Hilal to discuss a potential move that could see him earn $400 million PER SEASON!",
+      "category": "Sports",
+      "imageUrl": "http://res.cloudinary.com/dt4ripswl/image/upload/v1683924974/wbrn7dnw5mkzmihdtx3y.jpg",
+      "date": "12/05/2023",
+      "id": 7
     }
   ]
 }

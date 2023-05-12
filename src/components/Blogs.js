@@ -22,7 +22,7 @@ const Blogs = ({
   handleDelete,
 }) => {
   return (
-    <MDBCol size={4}>
+    <MDBCol size={4} className="mb-3">
       <MDBCard className="h-100 mt-2" style={{ maxWidth: "22rem" }}>
         <MDBCardImage
           src={imageUrl}
